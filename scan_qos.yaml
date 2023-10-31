@@ -1,0 +1,6 @@
+/scan:
+  # reliability: best_effort
+  reliability: reliable
+
+  history: keep_all
+  # history_depth: 1
